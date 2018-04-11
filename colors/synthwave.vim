@@ -80,7 +80,7 @@ hi Exception guifg=#bd0065 guibg=#000000 guisp=#000000 gui=bold ctermfg=5 ctermb
 hi Keyword guifg=#0098a3 guibg=NONE guisp=NONE gui=bold ctermfg=37 ctermbg=NONE cterm=bold
 hi Type guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
 hi DiffChange guifg=#ff0000 guibg=#492224 guisp=#492224 gui=NONE ctermfg=196 ctermbg=52 cterm=NONE
-hi Cursor guifg=#192224 guibg=#F9F9F9 guisp=#F9F9F9 gui=NONE ctermfg=235 ctermbg=15 cterm=NONE
+hi Cursor guifg=#000000 guibg=#FF00BA guisp=#F9F9F9 gui=NONE ctermfg=0 ctermbg=13 cterm=NONE
 hi SpellLocal guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
 hi Error guifg=#A1A6A8 guibg=#912C00 guisp=#912C00 gui=NONE ctermfg=248 ctermbg=88 cterm=NONE
 hi PMenu guifg=#00ffd5 guibg=#275b6c guisp=#275b6c gui=NONE ctermfg=50 ctermbg=23 cterm=NONE
