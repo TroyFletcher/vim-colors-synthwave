@@ -1,14 +1,8 @@
 # vim synthwave
+
 ***
 All you need to relive the neon glory days A E S T H E T I C
 ***
-
-### Screenshot
-![alt text](https://github.com/TroyFletcher/vim-colors-synthwave/raw/master/vim-color-synthwave.png "Screenshot 1")
-- Cursor highighted Green (due to putty, normally pink bg with black fg)
-- Column and line highlight on
-- Keyword (TODO) highlighting
-- Match paren highlight (lower left)
 
 ## Features
 1. Totally Radical
@@ -19,6 +13,13 @@ All you need to relive the neon glory days A E S T H E T I C
 6. Very bright match paren highlight
 7. Effort to contrast commonly nearby syntax object types to opposing colors
 8. Heavy cterm support
+
+### Screenshot
+![alt text](https://github.com/TroyFletcher/vim-colors-synthwave/raw/master/vim-color-synthwave.png "Screenshot 1")
+- Cursor highighted Green (due to putty, normally pink bg with black fg)
+- Column and line highlight on
+- Keyword (TODO) highlighting
+- Match paren highlight (lower left)
 
 ## Airline Recommendations
 1. Works well with AirlineTheme kolor
