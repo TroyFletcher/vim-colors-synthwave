@@ -2,11 +2,9 @@
 
 ***
 All you need to relive the ...
-`
- _______      _______      _______      _______      _     _      _______      _______      _____      _______::
- |_____|      |______      |______         |         |_____|      |______         |           |        |      ::
- |     |      |______      ______|         |         |     |      |______         |         __|__      |______ ::
-`
+ nbsp;_______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;_______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;_______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;_______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;_ nbsp; nbsp; nbsp; nbsp; nbsp;_ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;_______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;_______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;_____ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;_______::
+ nbsp;|_____| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;|______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;|______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;|_____| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;|______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;::
+ nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;|______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;______| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;|______ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;| nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;__|__ nbsp; nbsp; nbsp; nbsp; nbsp; nbsp;|______ nbsp;::
 ... of the neon glory days
 ***
 
