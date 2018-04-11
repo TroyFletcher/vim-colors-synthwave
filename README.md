@@ -15,7 +15,7 @@ All you need to relive the neon glory days A E S T H E T I C
 8. Heavy cterm support
 
 ### Screenshot
-![alt text](https://github.com/TroyFletcher/vim-colors-synthwave/raw/master/vim-color-synthwave.png "Screenshot 1")
+![alt text](https://github.com/TroyFletcher/vim-colors-synthwave/raw/master/vim-color-synthwave1.png "Screenshot 1")
 - Cursor highighted Green (due to putty, normally pink bg with black fg)
 - Column and line highlight on
 - Keyword (TODO) highlighting
