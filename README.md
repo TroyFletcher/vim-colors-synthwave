@@ -13,11 +13,13 @@ All you need to relive the neon glory days A E S T H E T I C
 6. Very bright match paren highlight
 7. Effort to contrast commonly nearby syntax object types to opposing colors
 8. Heavy cterm support
+9. Easily distinguished comments
 
 ### Screenshot
 ![alt text](https://github.com/TroyFletcher/vim-colors-synthwave/raw/master/vim-color-synthwave1.png "Screenshot 1")
 - Cursor highighted Green (due to putty, normally pink bg with black fg)
 - Column and line highlight on
+- Comment block with darker background
 - Keyword (TODO) highlighting
 - Match paren highlight (lower left)
 
