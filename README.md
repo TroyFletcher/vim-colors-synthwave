@@ -1,11 +1,7 @@
 # vim synthwave
 
 ***
-All you need to relive the ...  
-```&nbsp;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;  
-```&nbsp;&#9134;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-```&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x5f;&#x5f;&#9134;&#x5f;&#x5f;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9134;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&nbsp;  
-... of the neon glory days
+All you need to relive the neon glory days A E S T H E T I C
 ***
 
 ## Features
