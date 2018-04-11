@@ -1,7 +1,12 @@
 # vim synthwave
 
 ***
-All you need to relive the neon glory days A E S T H E T I C
+All you need to relive the ...
+ _______      _______      _______      _______      _     _      _______      _______      _____      _______
+ |_____|      |______      |______         |         |_____|      |______         |           |        |      
+ |     |      |______      ______|         |         |     |      |______         |         __|__      |______ 
+
+... of the neon glory days
 ***
 
 ## Features
