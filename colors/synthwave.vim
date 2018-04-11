@@ -40,7 +40,7 @@ hi DiffText guifg=#70eeff guibg=#630075 guisp=#630075 gui=NONE ctermfg=87 ctermb
 hi ErrorMsg guifg=#000000 guibg=#00ff00 guisp=#00ff00 gui=bold ctermfg=NONE ctermbg=10 cterm=bold
 hi Debug guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi PMenuSbar guifg=#3a0057 guibg=#bf2a79 guisp=#bf2a79 gui=NONE ctermfg=53 ctermbg=5 cterm=NONE
-hi Identifier guifg=#c597fc guibg=#303942 guisp=#303942 gui=NONE ctermfg=141 ctermbg=238 cterm=NONE
+hi Identifier guifg=#96f3fa guibg=#000000 guisp=#000000 gui=NONE ctermfg=14 ctermbg=0 cterm=NONE
 hi SpecialChar guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi Conditional guifg=#db93c8 guibg=NONE guisp=NONE gui=bold ctermfg=175 ctermbg=NONE cterm=bold
 hi StorageClass guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
