@@ -21,11 +21,15 @@ All you need to relive the neon glory days A E S T H E T I C
 - Keyword (TODO) highlighting
 - Match paren highlight (lower left)
 
-## Airline Recommendations
-1. Works well with AirlineTheme kolor
+### Markdown
+![alt text](https://github.com/TroyFletcher/vim-colors-synthwave/raw/master/vim-color-synthwave3.png "Screenshot 3")
+- Markdown example with some more white text
 
 ### Vim Diff
 ![alt text](https://github.com/TroyFletcher/vim-colors-synthwave/raw/master/vim-color-synthwave2.png "Screenshot 2")
 - Vim Diff shown
 - Visual block selection color shown
+
+## Airline Recommendations
+1. Works well with AirlineTheme kolor
 
