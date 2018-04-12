@@ -64,6 +64,8 @@ hi Search guifg=#ffffff guibg=#ad00bd guisp=#ad00bd gui=NONE ctermfg=15 ctermbg=
 hi Delimiter guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi Statement guifg=#6cddf1 guibg=NONE guisp=NONE gui=bold ctermfg=81 ctermbg=NONE cterm=bold
 hi SpellRare guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
+hi ColorColumn guifg=NONE guibg=#536991 guisp=NONE ctermfg=NONE ctermbg=60 cterm=NONE
+hi OverColLimit term=inverse,bold cterm=bold ctermbg=red ctermfg=white gui=bold guibg=red guifg=white
 hi Comment guifg=#9c38bd guibg=#000000 guisp=NONE gui=italic ctermfg=5 ctermbg=0 cterm=NONE
 hi Character guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi Float guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
