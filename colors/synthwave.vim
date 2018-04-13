@@ -50,7 +50,7 @@ hi DiffText guifg=#70eeff guibg=#630075 guisp=#630075 gui=NONE ctermfg=87 ctermb
 hi ErrorMsg guifg=#000000 guibg=#00ff00 guisp=#00ff00 gui=bold ctermfg=NONE ctermbg=10 cterm=bold
 hi Debug guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi PMenuSbar guifg=#3a0057 guibg=#bf2a79 guisp=#bf2a79 gui=NONE ctermfg=53 ctermbg=5 cterm=NONE
-hi Identifier guifg=#96f3fa guibg=#000000 guisp=#000000 gui=NONE ctermfg=14 ctermbg=0 cterm=NONE
+hi Identifier guifg=#96f3fa guibg=#000000 guisp=#000000 gui=NONE ctermfg=51 ctermbg=0 cterm=NONE
 hi SpecialChar guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi Conditional guifg=#db93c8 guibg=NONE guisp=NONE gui=bold ctermfg=175 ctermbg=NONE cterm=bold
 hi StorageClass guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
@@ -100,8 +100,8 @@ hi SpecialKey guifg=#5E6C70 guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=
 hi Constant guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi Tag guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi String guifg=#dd00ff guibg=#000000 guisp=#000000 gui=NONE ctermfg=165 ctermbg=NONE cterm=NONE
-hi PMenuThumb guifg=#00858f guibg=#00f7ff guisp=#00f7ff gui=NONE ctermfg=30 ctermbg=14 cterm=NONE
-hi MatchParen guifg=#dd00ff guibg=#ffffff guisp=#000000 gui=bold ctermfg=15 ctermbg=13 cterm=NONE
+hi PMenuThumb guifg=#00858f guibg=#00f7ff guisp=#00f7ff gui=NONE ctermfg=30 ctermbg=51 cterm=NONE
+hi MatchParen guifg=#dd00ff guibg=#000000 guisp=#000000 gui=bold ctermfg=0 ctermbg=51 cterm=NONE
 hi Repeat guifg=#ff00f7 guibg=NONE guisp=NONE gui=bold ctermfg=201 ctermbg=NONE cterm=bold
 hi SpellBad guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
 hi Directory guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
