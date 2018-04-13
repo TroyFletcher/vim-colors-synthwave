@@ -10,6 +10,7 @@
 "                .88                                                                
 "            d8888P                                                                 
 "                                                                                   
+" Test ALL THE SYNTAX!!!  so $VIMRUNTIME/syntax/hitest.vim
 set background=dark
 if version > 580
 	hi clear
@@ -42,26 +43,26 @@ hi Typedef guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE 
 hi Title guifg=#a58aff guibg=#2b262b guisp=#2b262b gui=bold ctermfg=141 ctermbg=235 cterm=bold
 hi Folded guifg=#192224 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=235 ctermbg=248 cterm=NONE
 hi PreCondit guifg=#7dbef0 guibg=NONE guisp=NONE gui=NONE ctermfg=117 ctermbg=NONE cterm=NONE
-hi Include guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
+hi Include guifg=#c051d3 guibg=NONE guisp=NONE gui=NONE ctermfg=164 ctermbg=NONE cterm=NONE
 hi TabLineSel guifg=#000000 guibg=#ff00d9 guisp=#ff00d9 gui=bold ctermfg=NONE ctermbg=200 cterm=bold
 hi StatusLineNC guifg=#000000 guibg=#6a61f2 guisp=#6a61f2 gui=bold ctermfg=NONE ctermbg=63 cterm=bold
 hi NonText guifg=#5E6C70 guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
 hi DiffText guifg=#70eeff guibg=#630075 guisp=#630075 gui=NONE ctermfg=87 ctermbg=54 cterm=NONE
 hi ErrorMsg guifg=#000000 guibg=#00ff00 guisp=#00ff00 gui=bold ctermfg=NONE ctermbg=10 cterm=bold
-hi Debug guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
+hi Debug guifg=#c051d3 guibg=NONE guisp=NONE gui=NONE ctermfg=164 ctermbg=NONE cterm=NONE
 hi PMenuSbar guifg=#3a0057 guibg=#bf2a79 guisp=#bf2a79 gui=NONE ctermfg=53 ctermbg=5 cterm=NONE
 hi Identifier guifg=#96f3fa guibg=#000000 guisp=#000000 gui=NONE ctermfg=51 ctermbg=0 cterm=NONE
-hi SpecialChar guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
+hi SpecialChar guifg=#c051d3 guibg=NONE guisp=NONE gui=NONE ctermfg=164 ctermbg=NONE cterm=NONE
 hi Conditional guifg=#db93c8 guibg=NONE guisp=NONE gui=bold ctermfg=175 ctermbg=NONE cterm=bold
 hi StorageClass guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
 hi Todo guifg=#000000 guibg=#00c4ff guisp=#00c4ff gui=NONE ctermfg=0 ctermbg=45 cterm=NONE
 hi Special guifg=#984aff guibg=NONE guisp=NONE gui=NONE ctermfg=135 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#ff00bb guibg=NONE guisp=NONE gui=NONE ctermfg=199 ctermbg=NONE cterm=NONE
 hi StatusLine guifg=#000000 guibg=#ff00bb guisp=#ff00bb gui=bold ctermfg=NONE ctermbg=199 cterm=bold
-hi Label guifg=#BD9800 guibg=NONE guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
+hi Label guifg=#c051d3 guibg=NONE guisp=NONE gui=bold ctermfg=164 ctermbg=NONE cterm=bold
 hi PMenuSel guifg=#ffffff guibg=#891a8f guisp=#891a8f gui=NONE ctermfg=15 ctermbg=90 cterm=NONE
 hi Search guifg=#ffffff guibg=#ad00bd guisp=#ad00bd gui=NONE ctermfg=15 ctermbg=5 cterm=NONE
-hi Delimiter guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
+hi Delimiter guifg=#67fffa guibg=#000000 guisp=NONE gui=bold ctermfg=51 ctermbg=NONE cterm=bold
 hi Statement guifg=#6cddf1 guibg=NONE guisp=NONE gui=bold ctermfg=81 ctermbg=NONE cterm=bold
 hi SpellRare guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
 hi ColorColumn guifg=NONE guibg=#536991 guisp=NONE ctermfg=NONE ctermbg=60 cterm=NONE
