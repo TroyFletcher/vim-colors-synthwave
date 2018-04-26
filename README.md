@@ -1,5 +1,5 @@
-# vim synthwave
-
+### vim synthwave
+![alt text](https://github.com/TroyFletcher/vim-colors-synthwave/raw/master/vim-synthwave-banner.jpg "Banner")
 ***
 All you need to relive the neon glory days A E S T H E T I C
 ***
