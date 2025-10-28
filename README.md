@@ -35,3 +35,18 @@ All you need to relive the neon glory days A E S T H E T I C
 ## Airline Recommendations
 1. Works well with AirlineTheme kolor
 
+##  📜 License  
+
+This project is **free to use** under **The Coffee License**:  
+
+☕ **Short & Sweet Version:**
+- **Individuals & non-commercial use:** Enjoy! No strings attached.
+- **Businesses/Orgs:** If this software saves you time/money,
+  please [buy me a coffee](https://buymeacoffee.com/troyfletcher).
+- **Tweak it lightly** ("Cream & Sugar"), but don’t redistribute your own version.
+- **No warranty**, but I’ll help if I can!
+
+Full license: [`LICENSE`](/LICENSE)  
+
+## Support the Project  
+If this code helped you, consider [buying me a coffee](https://buymeacoffee.com/troyfletcher) ☕—it keeps me awake while fixing bugs!
